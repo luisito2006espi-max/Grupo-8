@@ -1,0 +1,7 @@
+print("==============================")
+print("PRESENTACION")
+print("==============================")
+print("Nombre: Luis Espinoza")
+print("Carrera: Ing. de Sistemas")
+print("Semestre: 1° semestre")
+print("\nEstoy aprendiendo a usar Git y GitHub")
